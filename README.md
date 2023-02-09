@@ -1,1 +1,1 @@
-"Painoindeksilaskuri. T꼖꼗 harjoituksen tarkoitus oli harjoitella React -sovelluksen ohjelmallista testaamista. Testin l봸tyv꼝 l꼑dekoodeista." 
+"Painoindeksilaskuri. T채m채n harjoituksen tarkoitus oli harjoitella React -sovelluksen ohjelmallista testaamista. Testin l철ytyv채t l채hdekoodeista." 
